@@ -1,22 +1,21 @@
 {
-    "name": "data-structures-js",
-    "version": "1.0.0",
-    "description": "Data structures",
-    "type": "commonjs",
-    "scripts": {
-      "test": ""
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dileofrancoj/graphs-algorithms.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-    },
-    "homepage": "",
-    "devDependencies": {
-      "jest": "^28.1.0"
-    }
+  "name": "data-structures-js",
+  "version": "1.0.0",
+  "description": "Data structures",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileofrancoj/graphs-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "",
+  "devDependencies": {
+    "jest": "^28.1.0"
   }
+}
